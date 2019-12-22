@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "739753541598",
+    "firebase_url": "https://smartalarm-38597.firebaseio.com",
+    "project_id": "smartalarm-38597",
+    "storage_bucket": "smartalarm-38597.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739753541598:android:d3890b712eef1562c0e74f",
+        "android_client_info": {
+          "package_name": "org.ganymede.automaticbell"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "739753541598-4c0t11d8i8magq50pk7qho9tlmcoi54u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.ganymede.automaticbell",
+            "certificate_hash": "581887c72aefdd851a4fed3151af5944109d5f93"
+          }
+        },
+        {
+          "client_id": "739753541598-ic0mtf49n03ubfa3gacvm3fhovspv6b2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBsUI0TGrB78dNpo-ufP8Uvt0pQEMIHSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "739753541598-ic0mtf49n03ubfa3gacvm3fhovspv6b2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AutomaticBell</string>
+    <string name="delete">Hapus</string>
+    <string name="cancel">Batal</string>
+</resources>
